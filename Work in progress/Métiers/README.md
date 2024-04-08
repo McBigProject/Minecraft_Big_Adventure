@@ -1,53 +1,52 @@
-# Système Métier
+# SystÃ¨me MÃ©tier
 
-L'objectif est de fournir une expérience alternative à la progression sur minecraft. 
-Pousser le joueur à se spécialiser dans une tâche pour améliorer ses capacités et favoriser les échanges commerciaux.
+L'objectif est de fournir une expÃ©rience alternative Ã  la progression sur minecraft. 
+Pousser le joueur Ã  se spÃ©cialiser dans une tÃ¢che pour amÃ©liorer ses capacitÃ©s et favoriser les Ã©changes commerciaux.
 
-## Idées métiers
+## IdÃ©es mÃ©tiers
 
 - Forgeron
 - Constructeur
-- Pêcheur
+- PÃªcheur
 - Alchimiste
-- Bûcheron
+- BÃ»cheron
 - Chasseur
 - Paysan
 - Couturier
 - Mineur
 - ...
-- 
 
-## Système XP 
+## SystÃ¨me XP 
 
-Chaque action du métier, couper une buche, forger une épée, planter une graine... Rapporte un % d'xp relatif à la profession. En réalisant des actions,
-Le joueur franchit des paliers (niveaux). Chaque niveau relatif à l'effort fourni pour le franchir octroie un bonus.
+Chaque action du mÃ©tier, couper une buche, forger une Ã©pÃ©e, planter une graine... Rapporte un % d'xp relatif Ã  la profession. En rÃ©alisant des actions,
+Le joueur franchit des paliers (niveaux). Chaque niveau relatif Ã  l'effort fourni pour le franchir octroie un bonus.
 
 Ces bonus doivent conserver l'esprit originel de minecraft. 
 
-Ex forgeron : ( Les valeurs d'xp ne sont pas définis c'est un placeholder)
-craft outil en bois = 1xp
-craft 1 outil en pierre = 2xp 
+Ex forgeron : ( Les valeurs d'xp ne sont pas dÃ©finis c'est un placeholder)<br />
+craft outil en bois = 1xp<br />
+craft 1 outil en pierre = 2xp <br />
 
-0xp = lvl 1 (xp cumulable)
-10xp = Lvl 2 : +5% chance d'économiser une ressource lors du craft (cumulable)
-25xp = lvl 3 : débloque les craft en métal (5xp par craft) 
-50xp = lvl 4 : +5% chance d'économiser une ressource lors du craft
-80xp = lvl 5 : débloque craft anneau 
-...
+0xp = lvl 1 (xp cumulable)<br />
+10xp = Lvl 2 : +5% chance d'Ã©conomiser une ressource lors du craft (cumulable)<br />
+25xp = lvl 3 : dÃ©bloque les craft en mÃ©tal (5xp par craft)<br /> 
+50xp = lvl 4 : +5% chance d'Ã©conomiser une ressource lors du craft<br />
+80xp = lvl 5 : dÃ©bloque craft anneau<br /> 
+...<br />
 
-Ex Bûcheron 
-0xp = lvl 1 (xp cumulable)
-10xp = Lvl 2 : +1% vitesse de coupe
-25xp = lvl 3 : +5% capacité max de stockage
-50xp = lvl 4 : +1% vitesse de coup
-80xp = lvl 5 : +5% chance de récupérer deux ressources 
-...
+Ex BÃ»cheron<br /> 
+0xp = lvl 1 (xp cumulable)<br />
+10xp = Lvl 2 : +1% vitesse de coupe<br />
+25xp = lvl 3 : +5% capacitÃ© max de stockage<br />
+50xp = lvl 4 : +1% vitesse de coup<br />
+80xp = lvl 5 : +5% chance de rÃ©cupÃ©rer deux ressources<br /> 
+...<br />
 
-Suggestion pour les métiers craft : Tous les craft sont disponibles dès le niveau 1, mais avec forte chance d'échec = perte des ressources ou item endommagé. 
+Suggestion pour les mÃ©tiers craft : Tous les craft sont disponibles dÃ¨s le niveau 1, mais avec forte chance d'Ã©chec = perte des ressources ou item endommagÃ©. 
 
 ## Table de craft
 
-- forge : Besoin artiste pour modéliser une forge ( idéalement en 2 blocs) 
+- forge : Besoin artiste pour modÃ©liser une forge ( idÃ©alement en 2 blocs) 
 - Ouvert aux suggestions
 
 
