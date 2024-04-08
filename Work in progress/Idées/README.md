@@ -27,7 +27,8 @@ Steam punk/ nausicaa
 trouver une mascotte
 
 ## Enemis
-introduire variante monstre univers plus sombre : berserk : souls
+- introduire variante monstre univers plus sombre : berserk : souls
+- IA qui intéragit avec ENV
 
 ## cosmetic
 
