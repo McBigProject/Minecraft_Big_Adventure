@@ -1,7 +1,7 @@
 
 ![READMEV1](https://github.com/NathanDestrez/Minecraft_Big_Aventure/assets/113355529/1b7c8df6-b28b-417b-82eb-3cf3732948eb)
 
-# Minecraft_Big_Aventure
+# Minecraft_Big_Adventure
 Bienvenue sur le GIT du serveur Minecraft (trouver un nom)<br >
 Vous trouverez ici les change logs, le wiki, les projets en cours et les tâches à réaliser. 
 
