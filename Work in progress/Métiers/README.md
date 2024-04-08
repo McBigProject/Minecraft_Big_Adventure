@@ -1,3 +1,6 @@
+
+![job_readme_banner](https://github.com/NathanDestrez/Minecraft_Big_Aventure/assets/113355529/4b9dbaf9-501e-46a9-8fc6-225059b6280c)
+
 # Système Métier
 
 L'objectif est de fournir une expérience alternative à la progression sur minecraft. 
