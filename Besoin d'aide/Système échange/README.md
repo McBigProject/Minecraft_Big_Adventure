@@ -1,6 +1,4 @@
-# Minecraft_Big_Aventure
- doc and infos MC project
+# Echange entre joueur
 
- test
- yeaah
-
+GUI pour intéractions commerciales entre joueurs.
+A définir
