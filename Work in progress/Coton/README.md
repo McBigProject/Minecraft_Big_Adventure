@@ -1,6 +1,9 @@
-# Minecraft_Big_Aventure
- doc and infos MC project
+# Cotons
 
- test
- yeaah
-
+Nouvelle plante, 
+- Fleur ( pousse comme les fleurs rouges ou jaunes)
+- Collecte du coton
+- utilisable pour couturier
+  - Cosmétics
+  - vêtements cotons
+  - ...
