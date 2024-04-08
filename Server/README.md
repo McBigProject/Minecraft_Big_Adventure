@@ -5,3 +5,7 @@
  - [LuckPerms](https://luckperms.net/) Permissions
 
    Pour saber voir comment utiliser et adapter pour nos règles. 
+
+## Infos serv 
+
+ip: 176.132.102.216
