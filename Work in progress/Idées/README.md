@@ -34,7 +34,8 @@ introduire variante monstre univers plus sombre : berserk : souls
 - dépends du biome
 	- ressources
 	-
-	
+## métiers
+- métiers sociaux/ intéractions -> Points factions
 
 ## Gameplay
 - améliorer anim 
