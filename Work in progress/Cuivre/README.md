@@ -1,6 +1,6 @@
-# Minecraft_Big_Aventure
- doc and infos MC project
+# Cuivre
 
- test
- yeaah
-
+Nouveau minerai 
+- Outils (dégats: durabilité à définir)
+- Rareté (métal=?)
+- Alliage ??
