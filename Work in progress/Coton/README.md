@@ -7,3 +7,12 @@ Nouvelle plante,
   - Cosmétics
   - vêtements cotons
   - ...
+
+
+- model 3D fleur ( basé sur les existants)
+- item fleur (inventaire)
+- coton récolté sur la fleur ( item)
+- coton retravaillé ( tissus ?) (item)
+ 
+- graine item
+- fleur domestiquée ( model 3D  & item)
