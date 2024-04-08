@@ -17,6 +17,7 @@ Pousser le joueur à se spécialiser dans une tâche pour améliorer ses capacit
 - Paysan
 - Couturier
 - Mineur
+- Dompteur
 - ...
 
 ## Système XP 
