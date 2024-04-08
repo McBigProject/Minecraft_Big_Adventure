@@ -1,27 +1,27 @@
 # Notes pour plus tard 
 
 ## System 
-idées points alliance : 
+idÃ©es points alliance : 
 point positif : 
 - temps de connexion 1h par jour = points 
-	- heure de la journée en 2 xp (heures d'affluences) 
-	- xp doublés/ réompenses si joue à plusieurs (système groupe) 
-- xp métier 
-- succès 
+	- heure de la journÃ©e en 2 xp (heures d'affluences) 
+	- xp doublÃ©s/ rÃ©ompenses si joue Ã  plusieurs (systÃ¨me groupe) 
+- xp mÃ©tier 
+- succÃ¨s 
 
 
-- XP perso à retravailler  
+- XP perso Ã  retravailler  
 
 
 ## Biomes custom
 
-- Differentes ressources par biomes, pour pousser à l'échanges. 
+- Differentes ressources par biomes, pour pousser Ã  l'Ã©changes. 
 - craft custom 
 
 - items avec power up en fonction du biome 
 
 
-## DA générale
+## DA gÃ©nÃ©rale
 
 Steam punk/ nausicaa 
 trouver une mascotte
@@ -31,20 +31,20 @@ introduire variante monstre univers plus sombre : berserk : souls
 
 ## cosmetic
 
-- dépends du biome
+- dÃ©pends du biome
 	- ressources
 	-
 	
 
-## Gaemplay
-- améliorer anim 
-- améliorer combats
+## Gameplay
+- amÃ©liorer anim 
+- amÃ©liorer combats
 
 ## gameplay 
 
 - ajouter la faim
 - ajouter la soif 
 
-- diffuclté à redéfinir 
-- difficulkté en fonction du biome ? ou contenu à ajouter 
+- diffucltÃ© Ã  redÃ©finir 
+- difficulktÃ© en fonction du biome ? ou contenu Ã  ajouter 
  
