@@ -5,6 +5,6 @@ Vous trouverez ici les projets d'améliorations en cours
 
 ## Nécéssaire avant le lancement du serveur
 - [Factions](https://github.com/NathanDestrez/Minecraft_Big_Aventure/tree/3bf91169c26eea1056a422a48a50dd5f5248c4f9/Work%20in%20progress/Factions)
-- [métier](https://github.com/NathanDestrez/Minecraft_Big_Aventure/tree/3bf91169c26eea1056a422a48a50dd5f5248c4f9/Work%20in%20progress/M%C3%A9tiers)
+- [Métier](https://github.com/NathanDestrez/Minecraft_Big_Aventure/tree/3bf91169c26eea1056a422a48a50dd5f5248c4f9/Work%20in%20progress/M%C3%A9tiers)
 - XP
 
