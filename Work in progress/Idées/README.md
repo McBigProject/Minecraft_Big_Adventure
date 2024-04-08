@@ -36,6 +36,7 @@ introduire variante monstre univers plus sombre : berserk : souls
 	-
 ## métiers
 - métiers sociaux/ intéractions -> Points factions
+	- exemple : garde (voir avec téo)  
 
 ## Gameplay
 - améliorer anim 
