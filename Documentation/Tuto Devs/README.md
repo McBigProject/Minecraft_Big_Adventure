@@ -1,4 +1,9 @@
-# Echange entre joueur
+# Set up Java env
 
-GUI pour intéractions commerciales entre joueurs.
-A définir
+## IDE 
+
+[IntelliJ](https://www.jetbrains.com/idea/download/?section=windows) 
+- community edition est gratuite
+
+## Tuto set up 
+[vidéo](https://www.youtube.com/watch?v=BRDrWYpgliY&ab_channel=YaBoiChips) Pour créer un env travail sur Intelij : 
