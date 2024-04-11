@@ -31,7 +31,7 @@ Pour modifier couleur, descriptions ou les surnoms.
 ```
 /ftbteams join TeamName
 ```
-### Intéractions
+### Interactions
 ```
 /ftbteams info
 ```
@@ -40,7 +40,7 @@ Pour modifier couleur, descriptions ou les surnoms.
 ```
 Message aux membres de votre guilde
 
-## Claim un térritoire
+## Claim un territoire
 
 Pour protéger vos ressources et vos constructions, nous avons créé un mod vous permettant de vous approprier (claim) un territoire.
 Un territoire claim ne peut être modifié* que par le joueur ayant sécurisé la zone et son équipe. 
