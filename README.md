@@ -15,3 +15,9 @@ Du nouveau contenu est à prévoir, si l'équipe de dev est motivée. 
 - Nouveau système métier qui respecte les racines du jeu 
 - Un système de factions / communauté pour étendre votre empire.
 - Du contenu custom
+
+## Nouveautés 
+Retrouvez le wiki de notre nouveau système de [Factions](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/2dce602a62b7298c7afb420e36fd17f5633d6ffd/Documentation/Factions)
+
+## Plus d'infos
+- [Documentation](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/2dce602a62b7298c7afb420e36fd17f5633d6ffd/Documentation)
