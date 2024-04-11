@@ -51,6 +51,7 @@ Un contrat est un objet précieux !  Vous n'en recevrez qu'un seul à votre prem
 
 ### Utiliser un contract 
 Un contrat tel quel ne vous permet pas d'acquérir du territoire. Pour utiliser votre contrat il vous faudra construire un bloc de campement ! <br >
+
 ![craft_camp_block](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/10c964b1-7329-4a75-8ed8-9bcabb858b69)<br >
 
 ### Utiliser un bloc de campement 
