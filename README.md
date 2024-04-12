@@ -25,3 +25,4 @@ Le serveur fonctionne avec la version 1.20.1 de Minecraft forge. <br >
 
 ## Plus d'infos
 - [Documentation](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/2dce602a62b7298c7afb420e36fd17f5633d6ffd/Documentation)
+- [Comment jouer](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/c43ff4fc20848e9640125b227cd00fa49ac153fa/Documentation/Comment%20jouer)
