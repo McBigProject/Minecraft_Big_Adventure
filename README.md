@@ -21,7 +21,7 @@ Retrouvez le wiki de notre nouveau système de [Factions](https://github.com/McB
 
 ## Comment Jouer ? 
 Le serveur fonctionne avec la version 1.20.1 de Minecraft forge. <br >
-[Télécharger]() directement le modpack ou suivez notre [tutoriel]() pour commencer à jouer ! <br >
+[Téléchargez]() directement le modpack ou suivez notre [tutoriel]() pour commencer à jouer ! <br >
 
 ## Plus d'infos
 - [Documentation](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/2dce602a62b7298c7afb420e36fd17f5633d6ffd/Documentation)
