@@ -11,7 +11,7 @@ Aventure 100% survie. Les joueurs seront invités à écrire leur propre histoir
 
 Du nouveau contenu est à prévoir, si l'équipe de dev est motivée. 
 
-## Nouveaux éléments de gameplay
+## Nouveaux éléments de gameplay (Travail en cours)
 - Nouveau système métier qui respecte les racines du jeu 
 - Un système de factions / communauté pour étendre votre empire.
 - Du contenu custom
