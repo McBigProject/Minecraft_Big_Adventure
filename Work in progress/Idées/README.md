@@ -37,7 +37,10 @@ trouver une mascotte
 	-
 ## métiers
 - métiers sociaux/ intéractions -> Points factions
-	- exemple : garde (voir avec téo)  
+	- exemple : garde (voir avec téo)
+
+- Métier de récoltes ouvert à tous,
+- Métier de craft spécialiasation requise ( soit forgeron, soit, tailleurs etc)
 
 ## Gameplay
 - améliorer anim 
