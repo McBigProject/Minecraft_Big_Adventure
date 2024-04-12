@@ -10,7 +10,7 @@ Pour rejoindre le serveur et profiter de son contenu, il vous faudra une copie d
 ## Launcher Mojang
 
 Dans ce chapitre, nous allons apprendre à installer notre modpack sur la version Java officielle du jeu. <br >
-Ouvrez votre launcher et Mojang et assurez-vous d'être en version forge 1.20.1 <br >
+Ouvrez votre launcher Mojang et assurez-vous d'être en version forge 1.20.1 <br >
 
 
 ![Launcher](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/5d8bad34-a06d-4348-8401-0c95b040f038) <br >
