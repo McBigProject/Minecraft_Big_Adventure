@@ -43,7 +43,11 @@ trouver une mascotte
 - Métier de craft spécialiasation requise ( soit forgeron, soit, tailleurs etc)
 	- Métier craft = tout les craft de bases sont présents mais up lvl permet de créer de meilleurs objets = enchantements etc	 	
 
-- 
+## Economies du jeu ( Milo ) 
+- Système HDV
+	- Bloc pour vendre des ressources
+ 	- Bank de ressources ? les ressources en ventes sont stockées dans un bâtiment/ bloc différent
+  	- Récompenses spéciales lors d'évèneemnts et heures de connexions. 		 	
 
 ## Gameplay
 - améliorer anim 
