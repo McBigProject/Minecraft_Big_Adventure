@@ -31,7 +31,7 @@ Pour modifier couleur, descriptions ou les surnoms.
 ```
 /ftbteams join TeamName
 ```
-### Intéractions
+### Interactions
 ```
 /ftbteams info
 ```
@@ -40,7 +40,7 @@ Pour modifier couleur, descriptions ou les surnoms.
 ```
 Message aux membres de votre guilde
 
-## Claim un térritoire
+## Claim un territoire
 
 Pour protéger vos ressources et vos constructions, nous avons créé un mod vous permettant de vous approprier (claim) un territoire.
 Un territoire claim ne peut être modifié* que par le joueur ayant sécurisé la zone et son équipe. 
@@ -56,6 +56,7 @@ Un contrat tel quel ne vous permet pas d'acquérir du territoire. Pour utiliser 
 
 ### Utiliser un bloc de campement 
 Une fois posé au sol, un bloc de campement claim une zone de 50 chunks autour de lui. Cette zone ne peut pas être modifiée* par un joueur externe à l'équipe du poseur.<br >
+Si le bloc est détruit, la zone de claim est retirée. <br >
 
 
 ![2024-04-11_17 47 09](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/2d105ea0-a6b4-4c7d-a0fe-bb0a492b5e46) <br >
