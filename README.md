@@ -19,12 +19,12 @@ Retrouvez le wiki de notre nouveau système de [Factions](https://github.com/McB
 
 ### Bienvenue dans une aventure 100% survie!
 
-Sur notre serveur, les joueurs sont invités à écrire leur propre histoire dans un monde presque vanille qui s’épanouit et se développe avec eux. Dès vos premiers pas, vous aurez l’opportunité de jouer, d’explorer, de vous regrouper en équipes, de revendiquer des terres et de construire votre empire.
+Sur notre serveur, les joueurs sont invités à écrire leur propre histoire dans un monde presque vanilla qui s’épanouit et se développe avec eux. Dès vos premiers d’explorez, regroupez-vous en équipes et revendiquez vos terres pour construire votre empire.
 
 ### Ce qui vous attend :
 
-- Développez vos compétences : Apprenez et maîtrisez de nouvelles compétences qui vous aideront à survivre et à prospérer.
-- Construisez votre camp : Établissez votre base et transformez-la en un véritable foyer pour vous et vos alliés.
+- Développez vos compétences : Apprenez et maîtrisez de nouvelles techniques qui vous aideront à survivre et à prospérer.
+- Construisez votre camp : Établissez votre base et transformez-la en un véritable bastion pour vous et vos alliés.
 - Explorez de nouveaux environnements : Découvrez des territoires inexplorés pleins de ressources, de mystères et de dangers.
 - Interagissez avec un monde vivant : Participez à une économie dynamique, à un système de métiers innovant, et équipez-vous de nouveaux outils et armures.
 > Work in progress :) 
