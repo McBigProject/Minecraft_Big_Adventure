@@ -1,4 +1,8 @@
 # Notes pour plus tard 
+## Server
+
+- Mod pour auto installer les mods
+- Mod pour mettre le serv en fav 
 
 ## System 
 idées points alliance : 
