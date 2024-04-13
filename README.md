@@ -19,7 +19,7 @@ Retrouvez le wiki de notre nouveau système de [Factions](https://github.com/McB
 
 ### Bienvenue dans une aventure 100% survie!
 
-Sur notre serveur, les joueurs sont invités à écrire leur propre histoire dans un monde presque vanilla qui s’épanouit et se développe avec eux. Dès vos premiers d’explorez, regroupez-vous en équipes et revendiquez vos terres pour construire votre empire.
+Sur notre serveur, les joueurs sont invités à écrire leur propre histoire dans un monde presque vanilla qui se développe avec eux. Dès vos premiers pas, explorez, regroupez-vous en équipes et revendiquez vos terres pour construire votre empire.
 
 ### Ce qui vous attend :
 
