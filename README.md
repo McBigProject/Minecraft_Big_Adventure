@@ -9,6 +9,7 @@ Une équipe de quatre motivés par un objectif commun, explorer le développemen
 
 ## Nouveautés 
 Retrouvez le wiki de notre nouveau système de [Factions](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/2dce602a62b7298c7afb420e36fd17f5633d6ffd/Documentation/Factions)
+Nouveau système de chat en jeu [Chat Proximité](https://github.com/McBigProject/Minecraft_Big_Adventure/blob/7ba50aa578eca3ef8a34d3b702abb64e638a14ea/Documentation/Chat%20en%20Jeu/README.md)
 
 ## Biblio 
 - [Concept du serveur](#concept-du-serveur)
