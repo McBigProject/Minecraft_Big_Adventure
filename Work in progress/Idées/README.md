@@ -49,7 +49,10 @@ trouver une mascotte
 
 - Métier de récoltes ouvert à tous,
 - Métier de craft spécialiasation requise ( soit forgeron, soit, tailleurs etc)
-	- Métier craft = tout les craft de bases sont présents mais up lvl permet de créer de meilleurs objets = enchantements etc	 	
+	- Métier craft = tout les craft de bases sont présents mais up lvl permet de créer de meilleurs objets = enchantements etc
+
+   - Métier Mineur
+   	- Pour les HL chance de drop une resources dans la pierre 	
 
 ## Economies du jeu ( Milo ) 
 - Système HDV
