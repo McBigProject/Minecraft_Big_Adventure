@@ -2,7 +2,11 @@
 ## Server
 
 - Mod pour auto installer les mods
-- Mod pour mettre le serv en fav 
+- Mod pour mettre le serv en fav
+- Mod Emote
+- aRBRE RESPAWN = quand pousse tombe chance de se replanter
+- Village se regen
+
 
 ## System 
 idées points alliance : 
@@ -56,8 +60,7 @@ trouver une mascotte
 ## Gameplay
 - améliorer anim 
 - améliorer combats
-
-## gameplay 
+-  Mount panda
 
 - ajouter la faim
 - ajouter la soif 
