@@ -49,4 +49,4 @@ Cliquez sur play et tout est prêt !
 
 ## Rejoindre le serveur
 
-Dans Multijoeur, ajouter un serveur, IP = 176.132.102.216
+Dans Multijoueur, ajouter un serveur, IP = 176.132.102.216
