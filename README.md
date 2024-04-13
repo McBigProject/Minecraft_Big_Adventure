@@ -39,7 +39,10 @@ En tant que serveur communautaire, nous valorisons et récompensons l'investisse
 
 ### Phase ALPHA :
 
-Pour le moment, pour le test ALPHA, l'accès au serveur sera limité à nos amis et aux personnes que nous connaissons. C'est une période passionnante pour nous tous, et votre feedback sera essentiel pour façonner l'avenir du serveur.
+Pour le moment, pour le test ALPHA, l'accès au serveur sera limité à nos amis et aux personnes que nous connaissons. C'est une période passionnante pour nous tous, et votre feedback sera essentiel pour façonner l'avenir du serveur. <br >
+
+![RoadMapV0](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/860899c0-53fd-43e9-bf46-50533d1cb686) <br >
+
 
 **Rejoignez-nous et forgez votre propre légende sur notre serveur Minecraft!**
 
