@@ -25,7 +25,7 @@ Dans le launcher, dans l'onglet configuration : <br >
 ![launcher_mod_folder](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/dea4f78a-1e96-47db-a1af-3d40a4c08708) <br >
 
 L'icône de dossier vous renvoie au dossier .minecraft de votre configuration forge 1.20.1 <br >
-Dans le .minecraft recherchez votre dossier mods, remplacez le dossier par le dossier mods téléchargeable [ici](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/cce535cf3abb7103ffe08c972d2f15bdfe7d589b/Server.)<br >
+Dans le .minecraft recherchez votre dossier mods, remplacez le dossier par le dossier mods téléchargeable [ici](Server)<br >
 
 Tout est prêt !<br >
 
