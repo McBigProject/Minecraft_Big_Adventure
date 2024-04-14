@@ -1,4 +1,4 @@
-# Notes pour plus tard 
+# Notes pour trop tard 
 ## Server
 
 - Mod pour auto installer les mods
@@ -9,6 +9,8 @@
 - TP ballon pour différents spawn
 - système ping
 
+## Nature
+- Du joli Riz
 
 ## System 
 idées points alliance : 
