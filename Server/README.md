@@ -1,10 +1,4 @@
-## Map 
 
-[Map temps réel](http://176.132.102.216:14146/)
-
-## Infos serv 
-
-ip: 176.132.102.216
 
 ## Modpack
 

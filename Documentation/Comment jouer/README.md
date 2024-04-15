@@ -10,7 +10,7 @@ Pour rejoindre le serveur et profiter de son contenu, il vous faudra une copie d
 ## Launcher Mojang
 
 Dans ce chapitre, nous allons apprendre à installer notre modpack sur la version Java officielle du jeu. <br >
-Ouvrez votre launcher et Mojang et assurez-vous d'être en version forge 1.20.1 <br >
+Ouvrez votre launcher Mojang et assurez-vous d'être en version forge 1.20.1 <br >
 
 
 ![Launcher](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/5d8bad34-a06d-4348-8401-0c95b040f038) <br >
@@ -25,7 +25,7 @@ Dans le launcher, dans l'onglet configuration : <br >
 ![launcher_mod_folder](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/dea4f78a-1e96-47db-a1af-3d40a4c08708) <br >
 
 L'icône de dossier vous renvoie au dossier .minecraft de votre configuration forge 1.20.1 <br >
-Dans le .minecraft recherchez votre dossier mods, remplacez le dossier par le dossier mods téléchargeable [ici]().<br >
+Dans le .minecraft recherchez votre dossier mods, remplacez le dossier par le dossier mods téléchargeable [ici]([Server](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/main/Server))<br >
 
 Tout est prêt !<br >
 
@@ -41,7 +41,7 @@ Cliquez sur "create pack" et suivez le modèle suivant : <br >
 
 ![ATLauncher_2](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/35f66b61-6fb4-4b5b-abb3-a2717ed5a705)
 
-Accédez à votre jeu dans "Instances". Avec le bouton "open folder" vous pouvez accéder à vôtre .minecraft et remplacer le dossier mods par celui du serveur. Téléchargeable [ici]() <br >
+Accédez à votre jeu dans "Instances". Avec le bouton "open folder" vous pouvez accéder à vôtre .minecraft et remplacer le dossier mods par celui du serveur. Téléchargeable [ici](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/c43ff4fc20848e9640125b227cd00fa49ac153fa/Server) <br >
 
 ![ATLauncher_3](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/14145811-4e35-4690-b56b-811b82da1b2c) <br >
 
@@ -49,4 +49,4 @@ Cliquez sur play et tout est prêt !
 
 ## Rejoindre le serveur
 
-Dans Multijoeur, ajouter un serveur, IP = 176.132.102.216
+Dans Multijoueur, ajouter un serveur, IP = 176.132.102.216
