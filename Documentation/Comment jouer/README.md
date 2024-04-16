@@ -41,7 +41,7 @@ Cliquez sur "create pack" et suivez le modèle suivant : <br >
 
 ![ATLauncher_2](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/35f66b61-6fb4-4b5b-abb3-a2717ed5a705)
 
-Accédez à votre jeu dans "Instances". Avec le bouton "open folder" vous pouvez accéder à vôtre .minecraft et remplacer le dossier mods par celui du serveur. Téléchargeable [ici](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/c43ff4fc20848e9640125b227cd00fa49ac153fa/Server) <br >
+Accédez à votre jeu dans "Instances". Avec le bouton "open folder" vous pouvez accéder à vôtre .minecraft et remplacer le dossier mods par celui du serveur. Téléchargeable [ici](Server) <br >
 
 ![ATLauncher_3](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/14145811-4e35-4690-b56b-811b82da1b2c) <br >
 
