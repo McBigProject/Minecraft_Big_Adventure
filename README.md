@@ -54,8 +54,8 @@ Pour le moment, pour le test ALPHA, l'accès au serveur sera limité à nos amis
 
 ## Comment Jouer
 Le serveur fonctionne avec la version 1.20.1 de Minecraft forge. <br >
-[Téléchargez](Server) directement le modpack ou suivez notre [tutoriel](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/main/Documentation/Comment%20jouer) pour commencer à jouer ! <br >
+[Téléchargez](Server) directement le modpack ou suivez notre [tutoriel]() pour commencer à jouer ! <br >
 
 ## Plus d'infos
-- [Documentation](Documentation)
-- [Comment jouer](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/main/Documentation/Comment%20jouer)
+- [Documentation]()
+- [Comment jouer]()
