@@ -25,7 +25,7 @@ Dans le launcher, dans l'onglet configuration : <br >
 ![launcher_mod_folder](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/dea4f78a-1e96-47db-a1af-3d40a4c08708) <br >
 
 L'icône de dossier vous renvoie au dossier .minecraft de votre configuration forge 1.20.1 <br >
-Dans le .minecraft recherchez votre dossier mods, remplacez le dossier par le dossier mods téléchargeable [ici](Server)<br >
+Dans le .minecraft recherchez votre dossier mods, remplacez le dossier par le dossier mods téléchargeable [ici]([Server](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/main/Server))<br >
 
 Tout est prêt !<br >
 
@@ -41,7 +41,7 @@ Cliquez sur "create pack" et suivez le modèle suivant : <br >
 
 ![ATLauncher_2](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/35f66b61-6fb4-4b5b-abb3-a2717ed5a705)
 
-Accédez à votre jeu dans "Instances". Avec le bouton "open folder" vous pouvez accéder à vôtre .minecraft et remplacer le dossier mods par celui du serveur. Téléchargeable [ici](Server) <br >
+Accédez à votre jeu dans "Instances". Avec le bouton "open folder" vous pouvez accéder à vôtre .minecraft et remplacer le dossier mods par celui du serveur. Téléchargeable [ici]([Server](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/main/Server)) <br >
 
 ![ATLauncher_3](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/14145811-4e35-4690-b56b-811b82da1b2c) <br >
 
