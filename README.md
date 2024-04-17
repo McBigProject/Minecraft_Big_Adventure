@@ -8,9 +8,9 @@ Une équipe de quatre motivés par un objectif commun, explorer le développemen
 **Ce serveur est un projet en cours, voyez cette expérience comme une bêta test. Correction de bug, équilibrages et ajout de contenu sont à prévoir !** <br >
 
 ## Nouveautés 
-Liens vers le [changelog](Changelog)<br >
-Retrouvez le wiki de notre nouveau système de [Factions](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/0bfd2e33a8604d40f2d84d42c21536a615c03b90/Documentation/Factions) <br >
-Nouveau système de chat en jeu [Chat Proximité](https://github.com/McBigProject/Minecraft_Big_Adventure/blob/7ba50aa578eca3ef8a34d3b702abb64e638a14ea/Documentation/Chat%20en%20Jeu/README.md)<br >
+- Liens vers le [changelog](Changelog)<br >
+- Retrouvez le wiki de notre nouveau système de [Factions](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/0bfd2e33a8604d40f2d84d42c21536a615c03b90/Documentation/Factions) <br >
+- Nouveau système de chat en jeu [Chat Proximité](https://github.com/McBigProject/Minecraft_Big_Adventure/blob/7ba50aa578eca3ef8a34d3b702abb64e638a14ea/Documentation/Chat%20en%20Jeu/README.md)<br >
 
 ## Biblio 
 - [Concept du serveur](#concept-du-serveur)
