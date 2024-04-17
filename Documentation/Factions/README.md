@@ -3,7 +3,8 @@ Pour accompagner votre expérience de survie et faciliter votre aventure, nous v
 
 ### Voir ci-dessous : 
 - [Equipe](#gérer-son-équipe)
-- [Claim](#claim-un-territoire)
+- [Protéger son terrain](#claim-un-territoire)
+- [Agrandir son territoire](#agrandir-son-territoire) 
 
 
 ## Gérer son équipe
@@ -67,12 +68,14 @@ Une zone sécurisée s'affiche sur votre map : <br >
 
 ![2024-04-11_17 47 16](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/eb35a356-af9d-4166-a51e-c5227573cdd8) <br >
 
+## Agrandir son territoire
 
+Aujourd'hui, les blocs de claim sont limités à un bloc **actif** par joueur ou par équipe. Pour ne pas défavoriser les joueurs en équipes, nous avons ajouté le bloc village. <br >
 
+![2024-04-17_16 10 31](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/a48d0689-1f92-4b97-a767-881d82a0aed5) <br >
 
+Ces blocs sont constructibles avec deux blocs de camps classiques. Ainsi, pour fonder un village, il faudra vous associer à un autre joueur (ou lui voler sont contrat) ! <br >
 
-*Modifié : 
-- Destructions de blocs
-- Ajout de blocs
-- Intéraction avec les objets, coffre, portes etc
+![2024-04-17_16 11 02](https://github.com/McBigProject/Minecraft_Big_Adventure/assets/113355529/3d636f98-c366-4e0f-ae46-19544853ee27) <br >
+
 
