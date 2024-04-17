@@ -3,7 +3,7 @@ Pour accompagner votre expérience de survie et faciliter votre aventure, nous v
 
 ### Voir ci-dessous : 
 - [Equipe](#gérer-son-équipe)
-- [Claim](#claim-un-térritoire)
+- [Claim](#claim-un-territoire)
 
 
 ## Gérer son équipe
