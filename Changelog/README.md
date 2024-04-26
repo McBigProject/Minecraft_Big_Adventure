@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Changelog 0.1.0
 
 - MAJ claim blocks
@@ -7,11 +8,12 @@
 	- Ajout succès Claim blocks
  	- Modification du Camp block (70 -> 80 chunks) 	 
 
+=======
+# Changelog 0.2.0
+>>>>>>> Stashed changes
 
 - Ajout de mods
-	- goldenhopper (golden hopper/ Minecart)
-	- frameworkforge (mod dev)
-	- creativecoreforge (mod dev)
-	- Ambient sounds (ajout de sons en jeu)
-	- sounds physics (écho etc)
+	- BetterCombat (Better animations, Better collisions)
+	- EmoteCraft (Animations/ player interactions) 
+	- Simpletomb (Game improvement)
 
