@@ -14,6 +14,7 @@
 
 - Ajout de mods
 	- BetterCombat (Better animations, Better collisions)
-	- EmoteCraft (Animations/ player interactions) 
+	- EmoteCraft (Animations/ player interactions)
+ 	- Player animation (Dev lib)
 	- Simpletomb (Game improvement)
 
