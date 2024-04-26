@@ -10,7 +10,7 @@ Une équipe de quatre motivés par un objectif commun, explorer le développemen
 ## Nouveautés 
 - Liens vers le [changelog](Changelog)<br >
 - Exprimez-vous avec [EmoteCraft](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/2f3798144a2bed31422bebc51445f635f1132933/Documentation/EmoteCraft) <br >
-- Nouveau système de chat en jeu [Chat Proximité](https://github.com/McBigProject/Minecraft_Big_Adventure/blob/7ba50aa578eca3ef8a34d3b702abb64e638a14ea/Documentation/Chat%20en%20Jeu/README.md)<br >
+- Nouveau système de combat avec [BetterCombat](https://github.com/McBigProject/Minecraft_Big_Adventure/tree/2f9986d82f3946784bff248f333fae008d4c08e1/Documentation/Better%20Combat)<br >
 
 ## Biblio 
 - [Concept du serveur](#concept-du-serveur)
