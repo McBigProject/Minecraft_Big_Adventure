@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # Changelog 0.1.0
 
 - MAJ claim blocks
@@ -10,7 +10,7 @@
 
 =======
 # Changelog 0.2.0
->>>>>>> Stashed changes
+
 
 - Ajout de mods
 	- BetterCombat (Better animations, Better collisions)
