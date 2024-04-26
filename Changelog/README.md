@@ -15,6 +15,8 @@
 - Ajout de mods
 	- BetterCombat (Better animations, Better collisions)
 	- EmoteCraft (Animations/ player interactions)
- 	- Player animation (Dev lib)
+ 	- Player animation (Dev lib) 
 	- Simpletomb (Game improvement)
+ 	- Flib (Dec Lib)
+  	- Cloth Config (Dev Lib)	 	 
 
